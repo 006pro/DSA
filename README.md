@@ -71,3 +71,15 @@ For every problem, try to include:
 
 This repo will grow as you solve more problems. Keep practicing consistently and review older solutions from time to time.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/006pro/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/006pro/DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
