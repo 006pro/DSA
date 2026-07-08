@@ -86,6 +86,7 @@ This repo will grow as you solve more problems. Keep practicing consistently and
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/006pro/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/006pro/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/006pro/DSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -95,4 +96,8 @@ This repo will grow as you solve more problems. Keep practicing consistently and
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/006pro/DSA/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/006pro/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
