@@ -82,11 +82,13 @@ This repo will grow as you solve more problems. Keep practicing consistently and
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/006pro/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/006pro/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/006pro/DSA/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/006pro/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/006pro/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/006pro/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/006pro/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/006pro/DSA/tree/master/0231-power-of-two) |
@@ -105,5 +107,6 @@ This repo will grow as you solve more problems. Keep practicing consistently and
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/006pro/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/006pro/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
